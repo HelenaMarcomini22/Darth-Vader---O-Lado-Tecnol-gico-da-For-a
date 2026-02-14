@@ -1,0 +1,13 @@
+header {
+    background-color: darkred;
+    color: black
+}
+
+footer {
+    background-color: darkred;
+    color: black;
+    text-align: center;
+    padding: 3px ;
+    border-top: 0px solid black;
+
+}
